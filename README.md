@@ -7,6 +7,7 @@ This repository contains the open-source uptime monitor and status page for [5u9
 [![Graphs CI](https://github.com/5u9/status/workflows/Graphs%20CI/badge.svg)](https://github.com/5u9/status/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/5u9/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/5u9/status/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/5u9/status/workflows/Summary%20CI/badge.svg)](https://github.com/5u9/status/actions?query=workflow%3A%22Summary+CI%22)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F5u9%2Fstatus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F5u9%2Fstatus?ref=badge_shield)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/5u9/status/issues) as incident reports, [Actions](https://github.com/5u9/status/actions) as uptime monitors, and [Pages](https://5u9.github.io/status) for the status page.
 
@@ -32,3 +33,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [5u9](https://5u9.github.io/status)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F5u9%2Fstatus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F5u9%2Fstatus?ref=badge_large)
