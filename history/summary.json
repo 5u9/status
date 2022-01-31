@@ -58,18 +58,20 @@
     "url": "https://gitlab.com",
     "icon": "https://favicons.githubusercontent.com/gitlab.com",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 304,
-    "timeWeek": 311,
-    "timeMonth": 357,
-    "timeYear": 344,
-    "dailyMinutesDown": {}
+    "time": 738,
+    "timeDay": 8004,
+    "timeWeek": 2235,
+    "timeMonth": 836,
+    "timeYear": 738,
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   },
   {
     "name": "Bitbucket",
