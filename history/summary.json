@@ -85,18 +85,20 @@
     "url": "https://bitbucket.org",
     "icon": "https://favicons.githubusercontent.com/bitbucket.org",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 105,
-    "timeWeek": 219,
-    "timeMonth": 349,
+    "timeDay": 204,
+    "timeWeek": 229,
+    "timeMonth": 347,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-25": 0
+    }
   },
   {
     "name": "Gitpod",
