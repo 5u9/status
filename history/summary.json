@@ -46,7 +46,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 243,
     "timeMonth": 250,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Gitlab",
@@ -67,12 +69,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.68%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.89%",
     "time": 459,
     "timeDay": 664,
-    "timeWeek": 260,
+    "timeWeek": 274,
     "timeMonth": 534,
     "timeYear": 459,
     "dailyMinutesDown": {
